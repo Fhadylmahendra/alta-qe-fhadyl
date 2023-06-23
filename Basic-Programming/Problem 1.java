@@ -9,6 +9,6 @@ public class Main {
         float tinggi = inputan.nextFloat();
         float Luas = alas * tinggi/2;
         System.out.println("Luas Segitiga : " + Luas);
-
+//add
     }
 }
